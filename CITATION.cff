@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Thermoplastic Welding Process Reference"
+message: "If you use this compilation, please cite it as below."
+authors:
+  - name: "Kubota Research Archive"
+type: dataset
+url: "https://kubotaresearch.com"
+date-released: "2026-09-05"
+license: CC0-1.0
